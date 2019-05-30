@@ -55,7 +55,7 @@ Don't forget to add `start vrp_machines` on your `server.cfg`
 
 ### Configuration
 
-To change hungry, thisty and price of each item, you must edit `vrp_machines/cfg/machines.lua` file on `water=` `food=` and `price=` keys respectively.
+To change hungry, thirsty and price of each item, you must edit `vrp_machines/cfg/machines.lua` file on `water=` `food=` and `price=` keys respectively.
 
 ## TODO List
 * Better animations.
